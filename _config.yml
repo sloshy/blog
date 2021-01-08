@@ -1,0 +1,25 @@
+# Setup
+title:               Ryan Peters
+tagline:             'A dev blog'
+description:         'I am a Senior Scala Engineer with <a href="https://www.47deg.com/" target="_blank">47 Degrees</a>, previously <a href="https://www.rewardsnetwork.com/" target="_blank">Rewards Network</a>. I love functional programming, video games, and tend to get opinionated about them. Follow me <a href="https://twitter.com/LiquidSloshalot" target="_blank">@LiquidSloshalot</a>.'
+url:                 https://rpeters.dev/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Ryan Peters
+  twitter:           https://twitter.com/LiquidSloshalot
+  github:            https://github.com/sloshy
+  gitter:            https://gitter.im/sloshy
+  email:             me@rpeters.dev
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+google_analytics_id: #UA-XXXX-Y
+github_profile: https://github.com/sloshy/
+
