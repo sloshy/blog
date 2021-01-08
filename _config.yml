@@ -3,7 +3,7 @@ title:               Ryan Peters
 tagline:             'A dev blog'
 description:         'I am a Senior Scala Engineer with <a href="https://www.47deg.com/" target="_blank">47 Degrees</a>, previously <a href="https://www.rewardsnetwork.com/" target="_blank">Rewards Network</a>. I love functional programming, video games, and tend to get opinionated about them. Follow me <a href="https://twitter.com/LiquidSloshalot" target="_blank">@LiquidSloshalot</a>.'
 url:                 https://blog.rpeters.dev
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
