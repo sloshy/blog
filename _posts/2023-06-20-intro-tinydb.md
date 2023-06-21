@@ -69,10 +69,8 @@ In a future release I plan on supporting more features that I am presently layin
 * Custom data entry interface support
 * ...And more!!!
 
-## Example use case
-The reason this application came about is actually quite funny to me.
-You see, I had an earlier iteration of this project (under various names) in development since around 2017, but the scope was much larger than a database.
-I wished to create something to help manage my multimedia backlog -- games, movies, books, TV shows, you name it -- while also approaching the complexity of something like IMDB, TMDB, or TheTVDB.
+## Example use case & a brief history
+Starting back around 2017, I wished to create something to help manage my multimedia backlog -- games, movies, books, TV shows, you name it -- while also approaching the complexity of something like IMDB, TMDB, or TheTVDB.
 
 This proved to be quite an investment, and not something I was able to commit myself to for a long time without burnout.
 
