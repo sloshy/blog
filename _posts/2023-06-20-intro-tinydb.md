@@ -150,4 +150,16 @@ If you go to the above-mentioned email subscription form, you will see a field n
 If you specify "transrights" or some close-enough variation in the text box when you sign up, __I will donate $10 to The Trevor Project__ in your honor as a way of saying thanks, and to help support trans kids.
 I have set a soft limit of $500 since I'm not made of money, so hurry up and add your name to the list by the end of June (or however long I want to honor the promotion for) and get it all sorted out.
 
-This year I have been developing a browser-based database application for my own needs
+## Does TinyDB cost anything?
+I would like all of the basic features I described of TinyDB here today to be free for all users, forever.
+I do not ever plan on limiting access or shoving intrusive ads into the experience.
+I would like to be able to offer certain features that go beyond simple database tasks in a browser, however, that might need a cost attached in order to do them sustainably.
+Depending on how popular this gets, I might also look into crowdfunding options for prioritizing support requests and enabling early access to features, for example.
+We will see.
+
+## Will it be free/open-source software?
+Parts of it, yes, probably, maybe.
+Right now it is fully closed-source but I do intend to give parts of this an applicable license that permits free use and integrating with other software.
+I am still doing research into which license is best for my needs at this time.
+
+Please share, get the word out, and I hope to start showing off new features and functionality as I develop them over the coming weeks!
