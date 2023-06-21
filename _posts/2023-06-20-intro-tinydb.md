@@ -77,7 +77,7 @@ This proved to be quite an investment, and not something I was able to commit my
 I decided to try using an Excel spreadsheet instead, which, for the most part, worked fairly well.
 I was able to organize my media in as many tables as I wanted, with the columns and data types that made sense to me, and creating something that I could edit from my desktop as well as my phone or tablet.
 Unfortunately, I ran into a serious snag, and that was that I expected to be able to join tables together in my browser.
-Excel (nor Google Sheets, if I'm not mistaken) really support that feature for the web-based spreadsheets they offer, or, the versions I could find were inadequate for my needs.
+Neither Excel nor Google Sheets really support that feature for the web-based spreadsheets they offer, or the features they did offer were otherwise inadequate for my needs.
 I wanted to be able to define multiple tables that I could cross-reference and combine with each other in interesting ways to categorize and calculate statistics about my backlogs, and this simply was not possible with Excel.
 
 Lets say that I would like to keep track of how many games I own, per-year, per-gaming platform.
