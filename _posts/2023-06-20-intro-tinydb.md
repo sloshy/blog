@@ -6,6 +6,11 @@ TinyDB is an application I have been developing in various forms for a long time
 This month at [Scala Days Seattle 2023](https://scaladays.org/seattle-2023/) I was pleased to be able to demo the application and present about how the development using [Scala.js](https://www.scala-js.org/) was going along.
 Due to the focus of the talk being primarily about the tech used, and how useful it has been to me, I would like to take some time to actually kick-start the marketing hype cycle for this small project and let it be further known.
 
+## What is TinyDB?
+TinyDB is a browser-based database application that is as easy to use as a spreadsheet.
+You do not need to worry about preconfiguring data schemas or types to get started, so you can use it as a basic, text-based data entry program without any configuration.
+With TinyDB, I hope to allow you to opt into the level of control that you need over your data, while doing so in a way that is portable and easy-to-use from any device, whether it's your desktop computer, laptop, tablet, phone, or any other device with a modern web browser.
+
 ## Some (super unfinished) images
 
 To give you a quick idea of what this thing will look and feel like, here are some very unpolished and very early development screenshots showing the app:
@@ -30,11 +35,6 @@ You are able to select a host table in the FROM section, JOIN it to another tabl
 This is an example chart showing the ability to turn any table you generate into a visualization.
 You are able to select which columns represent which axes or data inputs.
 For this example, I have a pie chart showing the number of copies I own of three video games.
-
-## What is TinyDB?
-TinyDB is a browser-based database application that is as easy to use as a spreadsheet.
-You do not need to worry about preconfiguring data schemas or types to get started, so you can use it as a basic, text-based data entry program without any configuration.
-With TinyDB, I hope to allow you to opt into the level of control that you need over your data, while doing so in a way that is portable and easy-to-use from any device, whether it's your desktop computer, laptop, tablet, phone, or any other device with a modern web browser.
 
 ## What can TinyDB do?
 TinyDB can do all of the typical tasks you would associate with either a spreadsheet or a database.
