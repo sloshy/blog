@@ -16,22 +16,22 @@ With TinyDB, I hope to allow you to opt into the level of control that you need 
 To give you a quick idea of what this thing will look and feel like, here are some very unpolished and very early development screenshots showing the app:
 
 ### Table Display
-![Table display](../public/tinydb-intro-dist/table.png)
+![Table display](/public/tinydb-intro-dist/table.png)
 Each table is a grid of buttons that, when clicked, lets you edit its contents much like a spreadsheet cell.
 You can edit column information by clicking the column, including the type of column, custom formatting, allowed data values, title, and so on.
 
 ### Custom Enumerations
-![Custom enumeration form](../public/tinydb-intro-dist/enum.png)
+![Custom enumeration form](/public/tinydb-intro-dist/enum.png)
 You can set columns to use custom enumerations of values, which let you ensure that invalid values are impossible.
 This example shows configuring an enumeration type for video game platforms, i.e. PlayStation and PC.
 
 ### Queries
-![Query window](../public/tinydb-intro-dist/query.png)
+![Query window](/public/tinydb-intro-dist/query.png)
 This is a very-in-progress dialog window for constructing a query.
 You are able to select a host table in the FROM section, JOIN it to another table, aggregate, group by columns (UI not implemented yet), select values based on a custom expression language, and filter your queries just like you would using SQL.
 
 ### Charts
-![Pie chart](../public/tinydb-intro-dist/piechart.png)
+![Pie chart](/public/tinydb-intro-dist/piechart.png)
 This is an example chart showing the ability to turn any table you generate into a visualization.
 You are able to select which columns represent which axes or data inputs.
 For this example, I have a pie chart showing the number of copies I own of three video games.
