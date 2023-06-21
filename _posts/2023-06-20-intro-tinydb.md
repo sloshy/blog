@@ -13,7 +13,8 @@ With TinyDB, I hope to allow you to opt into the level of control that you need 
 
 ## Some (super unfinished) images
 
-To give you a quick idea of what this thing will look and feel like, here are some very unpolished and very early development screenshots showing the app:
+To give you a quick idea of what this thing will be capable of at a glance, I've taken some development screenshots.
+Unfortunately I have not put a lot of effort into the CSS, so it's a bit ugly right now but I will produce more videos and blog entries as this gets developed.
 
 ### Table Display
 ![Table display](/public/tinydb-intro-dist/table.png)
