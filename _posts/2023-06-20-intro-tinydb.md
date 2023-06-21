@@ -90,7 +90,7 @@ So, lets conjure up some normalized data to illustrate my point:
 | Final Fantasy XII | 2006 |
 | Super Mario 64 | 1996 |
 
-This table, lets call it table "A", has three games and their original release year.
+This table, lets call it table "A", has two games and their original release year.
 You could say that this table is the "original release year for a game".
 Now, lets say we also have this table:
 
