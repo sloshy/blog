@@ -2,7 +2,7 @@
 layout: post
 title: TinyDB September 2023 Update
 ---
-As we are nearing the end of Summer 2023, some of you might have been hoping for [some news about TinyDB](/_posts/2023-06-20-intro-tinydb.md), a ScalaJS-based relational database in your web browser with spreadsheet-like usability.
+As we are nearing the end of Summer 2023, some of you might have been hoping for [some news about TinyDB](/2023/06/20/intro-tinydb/), a ScalaJS-based relational database in your web browser with spreadsheet-like usability.
 There is not too much to talk about today, but to give you an idea of what to expect I am hoping to clarify some scheduling updates as time has marched on.
 
 ## Where is TinyDB?
