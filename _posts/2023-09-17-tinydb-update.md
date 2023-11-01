@@ -18,7 +18,7 @@ So, recognizing this, I am going to start ensuring that I at least have somethin
 Starting in October you will see an update on everything I have been able to accomplish during the month of September, and there might be a second update as well later in the month as more developments and plans are made.
 
 ## TinyDB Roadmap
-So youy might be wondering, what should you expect from these updates?
+So you might be wondering, what should you expect from these updates?
 What features have yet to be developed, and what milestones are there right now?
 I have put together this loose outline of the features I will be working on, and approximate levels of priority for when I hope to get done with them.
 
