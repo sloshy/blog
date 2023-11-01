@@ -19,6 +19,9 @@ To get started, enter a name for a database in the text field and press the "+" 
 In addition, you may create a table as the result of a query, or through importing a CSV.
 When importing a CSV, the first line will be treated as column header names.
 
+If you encounter any difficulties, confusion, etc. please do not hesitate to email me directly.
+If you are part of the closed beta, you can respond to my invite email or if you know me personally I will more than happily be receptive to feedback.
+
 ### Navigation
 The nav bar has the following items:
 
