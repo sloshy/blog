@@ -9,7 +9,7 @@ Here's the most substantial changes you can expect as we go into this new year:
 ## 1. The App Formerly Known As TinyDB
 Oh, well, this one is kind of embarassing.
 When I came up with the name for this app, and when I *bought the domain name* for said app, I swear, I did my research, but somehow [a project with the name TinyDB already exists](https://tinydb.readthedocs.io/en/latest/).
-I know, I know, it's easy to say "you should have googled it" and I could have sworn I did, but I did not.
+I know, I know, it's easy to say "you should have googled it" and I could have sworn I did, but I must have not noticed it through some horrible mistake.
 I have absolutely no association with this project, so I will be retiring the name of "TinyDB" for my own similar project.
 
 What is the new name?
