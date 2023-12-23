@@ -21,6 +21,12 @@ I've already bought the domain name, and I'm trying to work on a visual style to
 Oh, and speaking of...
 
 ## 2. The TinyDB website is temporarily down
+EDIT: This has been fixed as of 2023-12-23. I think. Please let me know if it still doesn't work for you. You might need to use the `www` subdomain.
+
+Original section below:
+
+---
+
 I don't know if you've noticed but if you try to go to [http://tinydb.app/](http://tinydb.app/) right now, it just straight-up won't load.
 I think it's DNS-related as I was trying to get something set up with web hosting a while back, but it seems to have totally borked the main site.
 
